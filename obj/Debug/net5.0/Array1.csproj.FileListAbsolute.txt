@@ -1,0 +1,16 @@
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\obj\Debug\net5.0\Array1.csproj.AssemblyReference.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\obj\Debug\net5.0\Array1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\obj\Debug\net5.0\Array1.AssemblyInfoInputs.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\obj\Debug\net5.0\Array1.AssemblyInfo.cs
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\obj\Debug\net5.0\Array1.csproj.CoreCompileInputs.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\bin\Debug\net5.0\Array1.exe
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\bin\Debug\net5.0\Array1.deps.json
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\bin\Debug\net5.0\Array1.runtimeconfig.json
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\bin\Debug\net5.0\Array1.runtimeconfig.dev.json
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\bin\Debug\net5.0\Array1.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\bin\Debug\net5.0\ref\Array1.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\bin\Debug\net5.0\Array1.pdb
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\obj\Debug\net5.0\Array1.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\obj\Debug\net5.0\ref\Array1.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\obj\Debug\net5.0\Array1.pdb
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\Array1\obj\Debug\net5.0\Array1.genruntimeconfig.cache
